@@ -1,0 +1,2 @@
+Prefix plugins/CMC/example/
+Plugin CMC inputfile s05.md.sam outputfile myoutput.txt
